@@ -5,7 +5,7 @@
 /cd translator_project
 /Ignore These Above Two Lines
 
-For Creating A Virtual Enviroment Use Have To; 
+For Creating A Virtual Environment Use Have To; 
 Step 1:- First Create Folder In Your Any Of THe Hard Drive Such As I Have Created In Hard Drive D Step 
 
 Step 2:- Open Cmd And Type The File Path such as:
