@@ -1,9 +1,9 @@
 # Team-07
 # Language Translator 
 
-git clone <repository_url>  --------
-                                    ---- ignore these lines cause i didn't uderstand this set of line yet
-cd translator_project       --------
+/git clone <repository_url>
+/cd translator_project
+/Ignore These Above Two Lines
 
 For Creating A Virtual Enviroment Use Have To; 
 Step 1:- First Create Folder In Your Any Of THe Hard Drive Such As I Have Created In Hard Drive D Step 
